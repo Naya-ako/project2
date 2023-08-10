@@ -125,6 +125,9 @@ input:focus{
 }
 
 @media screen and (max-width: 576px) {
+    body{
+        height: unset;
+    }
     main{
        flex-direction: column;
        padding: 25px;
