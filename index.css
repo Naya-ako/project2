@@ -156,9 +156,12 @@ input:focus{
     .learn,
     .see{
         text-align: center;
-        margin: 20px 0px;
+        margin: 5px 0px;
     }
-   
+   .learn{
+    font-size: 25px;
+    line-height: unset;
+   }
 
 }
 
